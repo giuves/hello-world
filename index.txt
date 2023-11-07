@@ -1,3 +1,5 @@
 Hello World!
 
 This is the first file in my Git Repository ;-)
+This line is here to show how merging works.
+This is a change on my local repository.
